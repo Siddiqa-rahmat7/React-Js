@@ -1,0 +1,26 @@
+{
+  "name": "episode-4---implement",
+  "version": "1.0.0",
+  "description": "React by Akshay Saini",
+  "homepage": "https://github.com/Siddiqa-rahmat7/React-Js#readme",
+  "bugs": {
+    "url": "https://github.com/Siddiqa-rahmat7/React-Js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddiqa-rahmat7/React-Js.git"
+  },
+  "license": "ISC",
+  "author": "Siddiqa Rahmat",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "npm test"
+  },
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
