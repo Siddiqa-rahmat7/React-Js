@@ -22,7 +22,8 @@
 .resturant-card {
     padding: 5px;
     width: 200px;
-    height: 200px;
+    height: 250px;
+    background-color:whitesmoke;
 }
 .resturant-card:hover{
 cursor: pointer;
